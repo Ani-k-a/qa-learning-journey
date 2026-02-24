@@ -1,0 +1,10 @@
+500 Internal Server Error occurs when clicking "Checkout" in the cart.	            S1 Blocker	P1 High	Functional
+PayPal payment method is inactive/unclickable, preventing order completion.	        S2 Critical	P1 High	Functional
+Search fails to find products containing German umlauts (ä, ö, ü).	                S3 Major	P2 Medium	Functional
+Company logo overlaps the navigation menu on mobile devices (iPhone 13/14).	        S4 Minor	P2 Medium	UI / Visual
+Typo in the footer section under "Datenschutz" (Privacy Policy).	                  S5 Trivial	P3 Low	Content / UI
+Price filter "10€ - 50€" displays items costing 150€.	                              S3 Major	P2 Medium	Functional
+Registration form reloads without an error message when the email field is empty.	  S3 Major	P2 Medium	UX / Functional
+Product images are broken (missing) in the "Hunde" (Dogs) category.	                S3 Major	P1 High	UI / Content
+Slow page load speed (over 10 seconds) for product details pages.	                  S3 Major	P2 Medium	Performance
+"Add to Cart" button is grey instead of green, making it look disabled.	            S4 Minor	P3 Low	UI / Usability
