@@ -1,3 +1,5 @@
+https://www.animalshopping.de/
+
 500 Internal Server Error occurs when clicking "Checkout" in the cart.	            S1 Blocker	P1 High	Functional
 PayPal payment method is inactive/unclickable, preventing order completion.	        S2 Critical	P1 High	Functional
 Search fails to find products containing German umlauts (ä, ö, ü).	                S3 Major	P2 Medium	Functional
