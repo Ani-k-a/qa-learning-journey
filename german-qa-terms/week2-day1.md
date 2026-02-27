@@ -1,0 +1,10 @@
+die Anforderung
+funktionale Anforderung
+nicht-funktionale Anforderung
+das Akzeptanzkriterium
+die Unklarheit
+die Spezifikation
+die Dokumentation
+das Risiko
+die Annahme
+die Abhängigkeit
